@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Project Description: Building a University Network in Cisco Packet Tracer using OSPF Protocol</title>
+  
 </head>
 <body>
   <h1>Project Description: Building a University Network in Cisco Packet Tracer using OSPF Protocol</h1>
