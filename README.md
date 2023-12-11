@@ -32,7 +32,7 @@
   <ol>
     <li>A fully functional university network simulation in Cisco Packet Tracer</li>
     <li>Comprehensive documentation</li>
-    <li>Network diagrams</li>
+    <li>Network Diagrams</li>
     <li>Practical experience and understanding</li>
     <li>Improved skills</li>
   </ol>
